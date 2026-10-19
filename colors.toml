@@ -1,0 +1,33 @@
+# Klimt — the Golden Period (The Kiss, Adele Bloch-Bauer I, Beethoven Frieze).
+# Gold leaf on black, with emerald, ruby, turquoise and lapis mosaic accents.
+mode = "dark"
+
+accent = "#d4a62a"              # gold leaf
+selection = "#3a2f18"
+muted = "#5c4e33"
+
+background = "#14110c"          # lacquer black
+dark_background = "#0e0b07"
+darker_background = "#080604"
+lighter_background = "#241e14"
+
+foreground = "#efe2c0"          # ivory
+dark_foreground = "#8a7d60"
+light_foreground = "#dccb9e"
+bright_foreground = "#fff4d6"
+
+red = "#d2493a"                 # ruby
+yellow = "#e3b53a"              # gold
+orange = "#d9822b"              # copper
+green = "#3fa36b"               # emerald
+cyan = "#4fb3a5"                # turquoise tessera
+blue = "#5b7fc7"                # lapis
+magenta = "#c06a9a"             # rose spirals
+brown = "#9a6a2a"               # bronze
+
+bright_red = "#ef6f5f"
+bright_yellow = "#f5d062"
+bright_green = "#66c48c"
+bright_cyan = "#78d1c4"
+bright_blue = "#86a3e0"
+bright_magenta = "#db8fbb"
