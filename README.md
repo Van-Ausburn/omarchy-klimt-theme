@@ -62,7 +62,7 @@ All paintings are in the **public domain** and were sourced from Wikimedia Commo
 - [The Kiss](https://commons.wikimedia.org/wiki/File:The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg) — Gustav Klimt, 1907–08
 - [Portrait of Adele Bloch-Bauer I](https://commons.wikimedia.org/wiki/File:Gustav_Klimt_-_Porträt_der_Adele_Bloch-Bauer_I_(1907).jpg) — Gustav Klimt, 1907
 - [Beethoven Frieze (middle wall)](https://commons.wikimedia.org/wiki/File:Klimt_-_Beethovenfries_-_Mittelwand.jpg) — Gustav Klimt, 1902
-- [Beethoven Frieze: Longing for Happiness](https://commons.wikimedia.org/wiki/File:Gustav_Klimt_-_Beethovenfries,_"Die_Sehnsucht_nach_dem_Glück"_(nach_Richard_Wagners_Interpretation_der_IX._Sinfonie_von_Ludwig_van_Beethoven)_-_5987_-_Österreichische_Galerie_Belvedere.jpg) — Gustav Klimt, 1902
+- [Farm Garden with Sunflowers](https://commons.wikimedia.org/wiki/File:Gustav_Klimt_-_Bauerngarten_mit_Sonnenblumen_-_3685_-_Österreichische_Galerie_Belvedere.jpg) — Gustav Klimt, c. 1907
 
 ## License
 
